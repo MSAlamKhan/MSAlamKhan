@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MSAlamKhan
-- 👀 I’m interested in Mobile Apps
-- 🌱 I’m currently learning React Native and Flutter
-- 💞️ I’m looking to collaborate on 
+- 👨‍🔧 I’m a Software Engineering Student
+- 👀 I’m interested in Mobile Applications, Mobile Development, 
+- Artificial intelligence and integrationg Ai modules in a mobile App. 
+- 🌱 I’m currently learning React Native and Flutter.
 - 📫 How to reach me :
 Linked in : https://www.linkedin.com/in/shahbaz-alam-b98193202/
 

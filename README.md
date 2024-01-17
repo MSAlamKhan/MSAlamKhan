@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MSAlamKhan
-- 👨‍🔧 I’m a Software Engineering Student
+- 👨‍🔧 I’m a Software Engineer
 - 👀 interested in Mobile Applications, Mobile Development, Artificial intelligence and integrating Ai modules in a mobile App. 
-- 🌱 currently learning React Native and Flutter.
-- 👨‍🔧 working as a React native developer @Sas Solutions
+- 🌱 currently learning Node.js.
+- 👨‍🔧 working as a Mobile Application Developer @Enorness
 - 📫 How to reach me :
 Linked in : https://www.linkedin.com/in/shahbaz-alam-b98193202/
 

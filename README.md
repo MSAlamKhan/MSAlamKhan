@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MSAlamKhan
 - 👨‍🔧 I’m a Software Engineer
 - 👀 interested in Mobile Applications, Mobile Development, Artificial intelligence and integrating Ai modules in a mobile App. 
-- 🌱 currently learning Node.js.
+- 🌱 currently learning Node.js and Flutter.
 - 👨‍🔧 working as a Mobile Application Developer @Enorness
 - 📫 How to reach me :
 Linked in : https://www.linkedin.com/in/shahbaz-alam-b98193202/
